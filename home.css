@@ -1,0 +1,72 @@
+
+
+body {
+	background-color: gold;
+}
+
+.mainMenu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.menu {
+	float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+
+#main {
+	font-family: 'Nunito', sans-serif;
+	width: 70%;
+	margin: auto;	
+	border: 30px solid black;
+	padding: 0% 4% 2%;
+
+}
+
+h1 {
+	text-align: center;
+	padding-top: 5%;
+}
+
+h2 {
+	margin-top: 5%;
+	margin-bottom: 5px;
+}
+
+.profile{
+	width: 50%;
+	margin: auto;
+	display: block;
+}
+
+.images {
+	height: 250px;
+	width: 33%;
+	margin: auto;
+	display: block;
+	float: left;
+}
+
+.projs {
+	width: 80%;
+	margin: auto;
+	display: block;
+}
+
+p {
+	font-size: 20px;
+}
